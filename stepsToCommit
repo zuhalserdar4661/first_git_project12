@@ -1,0 +1,6 @@
+1-) clone remote repository in local using github desktop
+2) Open cloned repository using 'open in VS code' button.
+3) change your file. Save.
+4) add changed file to stage area
+5) write commit message and 'COMMIT'
+6) open terminal and run command 'git push'
